@@ -14,7 +14,7 @@ By bridging simulations and observations, it helps us understand how dust shapes
 Gadget4-Osaka powers the [CROCODILE](https://sites.google.com/view/crocodilesimulation/home) cosmological simulation suite, which follows the formation and evolution of galaxies across the history of the Universe. In CROCODILE, Gadget4-Osaka combines detailed for gas chemistry and cooling, star formation, stellar explosions, and black hole growth, allowing us to explore how small-scale processes shape galaxies on cosmic scales. Future CROCODILE studies will explore the evolution of dust grain-sizes across cosmic times.
 
 The projects involving Gadget4-Osaka are community-driven efforts involving many experts in dust- and chemistry modelling, observational data analysis and numerical simulations.
-I acknowledge the support from my colleagues and close collaborators Kosei Matsumoto, Monica Relaño, [Stefan van der Giessen](https://www.linkedin.com/in/stefan-van-der-giessen-9928a0182/?originalSubdomain=be), [Kentaro Nagamine](https://astro-osaka.jp/kn/), Ilse De Looze, Hiroyuki Hirashita, and many others who contributed to this work.
+I acknowledge the support from my colleagues and close collaborators Kosei Matsumoto, [Yuri Oku](https://www.yurioku.com/), Monica Relaño, [Stefan van der Giessen](https://www.linkedin.com/in/stefan-van-der-giessen-9928a0182/?originalSubdomain=be), [Kentaro Nagamine](https://astro-osaka.jp/kn/), Ilse De Looze, Hiroyuki Hirashita, and many others who contributed to this work.
 
 Below are some highlights from our project.
 
