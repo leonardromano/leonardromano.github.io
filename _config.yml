@@ -194,8 +194,6 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-
 custom_css:
   - /assets/css/custom.css
 
