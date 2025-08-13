@@ -39,6 +39,6 @@ During the [pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) it became
 
 ## What Else?
 
-When I’m not modeling SNRs or exploding :bomb::bomb::bomb: in simulated galaxies, I have some hobbies that I engage with. My hobbies include **breadmaking**, **swimming**, **lasertag** and **hiking** in the nearby Bavarian Alps.   
-I also spend some of my free-time on side-projects such as learning all there is about **filing US-taxes from abroad** or building an [automatic converter](https://github.com/leonardromano/mrxs2tiff) between different microscope output formats -- topics that my tremendously helped my wife.
+When I’m not modeling supernova remnants or setting off :bomb::bomb::bomb: in simulated galaxies, I like to keep things a bit more down to Earth. You might find me **baking bread**, **swimming**, playing **lasertag**, or **hiking** in the Bavarian Alps.   
+I also spend some of my free-time on side-projects such as untangling the mysteries of **US-taxes from abroad** or building an [automatic converter](https://github.com/leonardromano/mrxs2tiff) between different microscope output formats -- topics that tremendously helped my wife.
 
