@@ -12,6 +12,7 @@ I am a theoretical astrophysicist at the University Observatory of Munich.
 ## News
 
 ### 2025
+**24/08/2025** Paper on starburst-driven galactic outflows accepted for publication in A&AL.
 **07/08/2025** Launched website.   
 **06/08/2025** First SISSI paper accepted for publication in A&A.   
 **16/07/2025** Submitted [PhD thesis](/files/PhD_thesis.pdf) on superbubbles in the ISM.  
