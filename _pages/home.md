@@ -7,12 +7,16 @@ redirect_from:
   - /home.html
 ---
 
+![Defense picture](/images/defense.jpg)
+
 I am a theoretical astrophysicist at the University Observatory of Munich.
 
 ## News
 
 ### 2025
-**24/08/2025** Paper on starburst-driven galactic outflows accepted for publication in A&AL.
+**28/08/2025** [New preprint](https://ui.adsabs.harvard.edu/abs/2025arXiv250821157M/abstract) about the role of grain-size evolution for galaxy attenuation curves on the arXiv (PI: K. Matsumoto)   
+**27/08/2025** Successfully defended PhD. (GPA: 1.18; *magna cum laude*)   
+**24/08/2025** Paper on starburst-driven galactic outflows accepted for publication in A&AL.   
 **07/08/2025** Launched website.   
 **06/08/2025** First SISSI paper accepted for publication in A&A.   
 **16/07/2025** Submitted [PhD thesis](/files/PhD_thesis.pdf) on superbubbles in the ISM.  
