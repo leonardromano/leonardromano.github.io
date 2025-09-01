@@ -56,3 +56,8 @@ _ArXiv ePrints_:2503.13261, 2025.
 [arXiv](https://arxiv.org/abs/2503.13261) • [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250313261R/abstract) • [DOI](https://ui.adsabs.harvard.edu/link_gateway/2025arXiv250313261R/doi:10.48550/arXiv.2503.13261)
 
 ## Other Preprints
+
+Matsumoto K., Sommovigo L., Gebek A.,  Nagamine K., Nersesian A., Baes M., De Looze I., van der Wel A., Somerville R., **Romano L. E. C.**, Cochrane R. K.     
+*Evolution of galaxy attenuation curves driven by evolving dust mass and grain size distributions*  
+_ArXiv ePrints_:2508.21157, 2025.  
+[arXiv](https://arxiv.org/abs/2508.21157) • [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250821157M/abstract) • [DOI](https://ui.adsabs.harvard.edu/abs/2025arXiv250821157M/abstract)
