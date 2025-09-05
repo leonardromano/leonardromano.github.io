@@ -28,7 +28,7 @@ _Monthly Notices of the Royal Astronomical Society_, Vol. 514(1), pp. 1441-1460,
 
 ## Other Peer-Reviewed Articles
 
-van der Giessen S. A., Matsumoto K., De Looze I., **Romano L. E. C.**, Hirashita H., Nagamine, K., Baes, M., Palla M., Hou K.-C., Faesi C.     
+van der Giessen S. A., Matsumoto K., Relaño M., De Looze I., **Romano L. E. C.**, Hirashita H., Nagamine, K., Baes, M., Palla M., Hou K.-C., Faesi C.     
 *Radial properties of dust in galaxies: Comparison between observations and isolated galaxy simulations.*  
 _Astronomy & Astrophysics_, Vol. 692, id. A39, 16 pp., 2024.  
 [arXiv](https://arxiv.org/abs/2410.21430) • [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A..39V/abstract) • [DOI](https://ui.adsabs.harvard.edu/link_gateway/2024A&A...692A..39V/doi:10.1051/0004-6361/202451988)
@@ -44,6 +44,11 @@ _Monthly Notices of the Royal Astronomical Society_, Vol. 515(4), pp. 5306-5334,
 [arXiv](https://arxiv.org/abs/2207.13196) • [ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.5306R/abstract) • [DOI](https://ui.adsabs.harvard.edu/link_gateway/2022MNRAS.515.5306R/doi:10.1093/mnras/stac2108)
 
 ## First-Author Preprints
+
+**Romano L. E. C.**   
+*SISSI: Supernovae in a stratified, shearing interstellar medium. II. Star formation near the Sun is quenched by expansion of the Local Bubble.*   
+_ArXiv ePrints_:2509.04221, 2025.   
+[arXiv](https://arxiv.org/abs/2509.04221) • [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250904221R/abstract) • [DOI](https://ui.adsabs.harvard.edu/link_gateway/2025arXiv250904221R/doi:10.48550/arXiv.2509.04221)
 
 **Romano L. E. C.**, Behrendt M., Burkert A.  
 *SISSI: Supernovae in a stratified, shearing interstellar medium – I. The geometry of supernova remnants.*  
