@@ -10,6 +10,13 @@ This page highlights the software and numerical tools I've developed or contribu
 
 ### 🧩 Developed Software
 
+#### **FRANZ**
+FRANZ (FRamework for ANalytical one-Zone blastwave dynamics) is a Julia package for modelling the evolution of astrophysical blastwaves using analytical and semi-analytical methods.   
+Key features include:   
+- Analytical one-zone model for blastwave evolution based on thin-shell and sector approximations  
+- Modular framework for incorporating additional physics   
+- Fully local formulation, allowing to evolve only parts of the full shock surface    
+
 #### **Osaka-Gadget4**
 A modified version of **Gadget-4** tailored for high-resolution simulations of galactic environments, developed in collaboration with [Y. Oku](https://www.yurioku.com/) and K. Matsumoto.
 
