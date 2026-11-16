@@ -78,7 +78,7 @@ This suggests the Local Bubble may be <strong>only ~5 million years old</strong>
 
 <p>The framework can be used to take analytical limits of blastwave dynamics under fairly complex conditions, to build intuition without the need of computationally expensive simulations.</p>
 
-<p>In the release paper I study blastwaves in a various settings that are relevant for galactic superbubbles and find that galactic substructure can leave important imprints on the geometry and dynamics of superbubbles once they become large enough to simultaneously probe different galactic conditions. This insight might be key to explaining the surprising results found in the SISSI simulations.</p>
+<p>In the release paper, I study blastwaves in various settings that are relevant for galactic superbubbles and find that galactic substructure can leave important imprints on the geometry and dynamics of superbubbles once they become large enough to simultaneously probe different galactic conditions. This insight might be key to explaining the surprising results found in the SISSI simulations.</p>
 
   </div>
 </div>
