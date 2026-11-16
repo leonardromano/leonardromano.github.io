@@ -49,7 +49,7 @@ Below you'll find highlights from the project.
 
   <div style="flex: 1; min-width: 300px;">
   
-<h3> 🕰️ The New Age of the Local Bubble </h3>
+<h3> The New Age of the Local Bubble </h3>
 
 <p>In our latest study, we revisit the origin of the <strong>Local Bubble</strong> — a large, hot cavity in the ISM that surrounds our solar system.  
 Unlike previous models, which assumed a smooth, dense ISM around the early bubble, our simulations begin with a <strong>fully self-consistent, turbulent ISM</strong> background.</p>
@@ -58,6 +58,27 @@ Unlike previous models, which assumed a smooth, dense ISM around the early bubbl
 This suggests the Local Bubble may be <strong>only ~5 million years old</strong>, rather than ~15 million as often assumed.</p>
 
 <p>This has major implications for how we interpret the history of structures in our Galactic neighborhood, how we interpret the sequence of star formation in nearby stellar nurseries and how we interpret observations of superbubbles.</p>
+
+  </div>
+</div>
+
+## [FRANZ: Framework for analytical one-zone blastwave dynamics](https://doi.org/10.1051/0004-6361/202661831)
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/images/projects/sissi/FRANZ.png" alt="Schematic description of FRANZ's working principle" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+  
+<h3> Blastwave Modelling Beyond Self-Similarity </h3>
+
+<p>I condensed the lessons learned from the SISSI simulations into a transparent analytical framework that can be used to model blastwave in virtually arbitrary media. The framework has been registered as a publicly available Julia package in the official registries ([FRANZ.jl](https://github.com/leonardromano/FRANZ.jl))</p>
+
+<p>The framework can be used to take analytical limits of blastwave dynamics under fairly complex conditions, to build intuition without the need of computationally expensive simulations.</p>
+
+<p>In the release paper I study blastwaves in a various settings that are relevant for galactic superbubbles and find that galactic substructure can leave important imprints on the geometry and dynamics of superbubbles once they become large enough to simultaneously probe different galactic conditions. This insight might be key to explaining the surprising results found in the SISSI simulations.</p>
 
   </div>
 </div>
@@ -146,6 +167,6 @@ For more background and possible future directions check out my [PhD thesis](/fi
 
 ---
 
-(Last modified 08.08.2025)
+(Last modified 16.11.2026)
 
 [← Back to Research Overview](/research/)

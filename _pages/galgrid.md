@@ -11,7 +11,7 @@ While some of these structures might be attributed to interactions with the cosm
 Thus far, the connection between host galaxy properties and their structures has been studied in depth using N-body simulations of stellar disks and their DM halos. However, a solid baseline for realistic galaxies, i.e. involving gas dynamics and thus processes such as radiative cooling, star formation and stellar feedback has been missing.
 
 To address this missing link, Dr. Pierrick Verwilghen ran the largest simulation suite of 51 isolated disk galaxies, covering a relevant sample of the parameter space of isolated disk galaxies, that can tackle these questions thus far.
-Pierrick analysed a representative subset of these **GALGRID** simulations, which lead to two publications that highlight an sudden transition in structural galaxy properties around a stellar mass of 1e10 Msol.
+Pierrick [analysed a representative subset](https://scixplorer.org/abs/2024A%26A...687A..53V/abstract) of these **GALGRID** simulations, which lead to two publications that highlight an [sudden transition](https://scixplorer.org/abs/2025A%26A...700A...3V/abstract) in structural galaxy properties around a stellar mass of 1e10 Msol.
 
 However, at the end of his PhD a large fraction of the massive GALGRID simulation dataset remained to be analyzed.
 The aim of this project is to utilize the full GALGRID simulation suite to answer the pertinent question:
@@ -34,7 +34,7 @@ Below are some highlights and findings from our project.
   <div style="flex: 1; min-width: 280px; padding-right: 20px;">
     <h3 style="margin-top: 0;">GALGRID x Vintergatan</h3>
     <p>
-      All GALGRID simulations were run with the same basic subgrid prescriptions for star-formation, radiative cooling and stellar feedback. Moreover, all simulations were run at the fixed maximum resolution of about 12 pc. To explore how these numerical choices affect our conclusions, we reran one of the GALGRID galaxies, which roughly matches the Milky Way, with the more sophisticated Vintergatan physics model at 3 different resolutions.
+      To explore how the numerical choices underlying GALGRID affect the conclusions, we reran one of the GALGRID galaxies with the more sophisticated [Vintergatan](https://scixplorer.org/abs/2021MNRAS.503.5826A/abstract) physics model at 3 different resolutions.
     </p>
     <p>We measured various bar properties and compared them to those of the original GALGRID simulation. An overview of the differences is shown above. Most bar properties are not sensitive to the subgrid physics and are well converged at 12 pc. Only the bar pattern speed appears to differ.</p>
     

@@ -50,4 +50,4 @@ Click on the thumbnails below to get an impression of the different projects I a
 
 ---
 
-(Last modified 08.08.2025)
+(Last modified 16.11.2026)
