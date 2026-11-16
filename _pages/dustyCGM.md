@@ -19,10 +19,12 @@ By combining high-performance computing with detailed physical models, this proj
 - What kinds of environments are most hostile — or most protective — to these particles?  
 - How can we connect simulation results to real observations from telescopes?
 
+Unfortunately, I am still trying to secure funding for this. If you are interested in this project and want to contribute (funding, ideas, suggestions, collaborations, etc.), feel free to reach out to me!   
+
 ---
 
 > 🔭 *As the project progresses, I’ll share visualizations, simulation results, and updates here — stay tuned!*
 
-(Last modified 07/08/2025)
+(Last modified 16/11/2026)
 
 [← Back to Research Overview](/research/)

@@ -14,7 +14,7 @@ I acknowledge the support from my advisors [Manuel Behrendt](https://www.manuelb
 
 Below you'll find highlights from the project.
 
-## [SISSI I: The Geometry of Supernova Remnants](https://ui.adsabs.harvard.edu/abs/2025arXiv250312977R/abstract)
+## [SISSI I: The Geometry of Supernova Remnants](https://doi.org/2025A&A...702A..12R/doi:10.1051/0004-6361/202554571)
 
 <div style="display: flex; flex-wrap: wrap-reverse; align-items: center; margin-bottom: 40px;">
 
@@ -39,7 +39,7 @@ Below you'll find highlights from the project.
   
 </div>
 
-## SISSI II: Star formation near the Sun is quenched by expansion of the Local Bubble 
+## [SISSI II: Star formation near the Sun is quenched by expansion of the Local Bubble](https://doi.org/2026A&A...707A..98R/doi:10.1051/0004-6361/202558080)
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem;">
 
@@ -62,7 +62,7 @@ This suggests the Local Bubble may be <strong>only ~5 million years old</strong>
   </div>
 </div>
 
-## [Starburst-Driven Galactic Outflows](https://ui.adsabs.harvard.edu/abs/2025arXiv250313261R/abstract)
+## [Starburst-Driven Galactic Outflows](https://doi.org/2025A&A...701L...5R/doi:10.1051/0004-6361/202554590)
 
 <div style="display: flex; flex-wrap: wrap-reverse; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; min-width: 280px; padding-right: 20px;">
@@ -87,7 +87,7 @@ This suggests the Local Bubble may be <strong>only ~5 million years old</strong>
   </div>
 </div>
 
-## [Cloud Formation by Supernova Implosion](https://ui.adsabs.harvard.edu/abs/2024ApJ...965..168R/abstract)
+## [Cloud Formation by Supernova Implosion](https://doi.org/2024ApJ...965..168R/doi:10.3847/1538-4357/ad2c05)
 
 <div style="display: flex; align-items: center; margin-bottom: 2em; flex-wrap: wrap;">
 
@@ -112,7 +112,7 @@ This suggests the Local Bubble may be <strong>only ~5 million years old</strong>
 
 </div>
 
-## [Star Formation by Supernova Implosion](https://ui.adsabs.harvard.edu/abs/2024ApJ...971L..44R/abstract)
+## [Star Formation by Supernova Implosion](https://doi.org/2024ApJ...971L..44R/doi:10.3847/2041-8213/ad6a57)
 
 <div style="display: flex; align-items: center; margin-bottom: 2em; flex-wrap: wrap;">
 

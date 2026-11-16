@@ -4,9 +4,9 @@ permalink: /research/g4-osaka/
 author_profile: true
 ---
 
-**Gadget4-Osaka** is a customised version of the cosmological SPH code [Gadget-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/), designed to follow the full **life cycle of interstellar dust** in galaxy-scale simulations.  
-It couples state-of-the-art models for **grain-size evolution** with a detailed treatment of gas-phase chemistry.  
+**Gadget4-Osaka** is a customised version of the cosmological SPH code [Gadget-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/), designed to follow the full **life cycle of interstellar dust** in galaxy-scale simulations. It couples state-of-the-art models for **grain-size evolution** with a detailed treatment of gas-phase chemistry.  
 This allows us to track how dust and molecular gas evolve in different galactic environments — from dense star-forming clouds to diffuse halo gas — while keeping the simulations physically realistic.
+I also implemented a model for dark matter self-interactions, which can be used to constrain how various aspects of galaxy formation depend on the underlying assumptions on the dark matter model.   
 
 A key strength of Gadget4-Osaka is its great interoperability with [SKIRT](https://skirt.ugent.be/root/_home.html) to produce realistic **synthetic observables** — maps and spectra of dust and molecular gas — that can be directly compared to telescope data from ALMA, Herschel, and JWST.  
 By bridging simulations and observations, it helps us understand how dust shapes galaxy evolution across cosmic history.
@@ -28,10 +28,10 @@ Below are some highlights from our project.
       In Gadget4-Osaka, each gas particle carries information on its dust mass and the full <strong>grain-size distribution</strong>.  
       The code models key physical processes: dust growth by accretion of metals in dense gas, shattering in high-speed grain–grain collisions, coagulation in molecular clouds, thermal sputtering in hot plasma, and destruction by supernova shocks.
     </p>
-    <p>In a <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1441R/abstract" target="_blank" rel="noopener">key publication</a> we showed how a major shortcoming of particle based methods such as SPH is the lack of mixing between fluid tracers. We addressed this, by adding <strong>numerical diffusion</strong> of dust and metals between particles, which strongly affected grain-size evolution.</p>
+    <p>In a <a href="https://scixplorer.org/abs/2022MNRAS.514.1441R/abstract" target="_blank" rel="noopener">key publication</a> we showed how a major shortcoming of particle based methods such as SPH is the lack of mixing between fluid tracers. We addressed this, by adding <strong>numerical diffusion</strong> of dust and metals between particles, which strongly affected grain-size evolution.</p>
     
     <p>
-      This framework lets us study how dust evolves across galactic environments (e.g. <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.5306R/abstract" target="_blank" rel="noopener">Relaño et al. 2022</a>, <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...692A..39V/abstract" target="_blank" rel="noopener">van der Giessen et al. 2024</a>), under a broad range of different star-formation and feedback conditions.  
+      This framework lets us study how dust evolves across galactic environments (e.g. <a href="https://scixplorer.org/abs/2022MNRAS.515.5306R/abstract" target="_blank" rel="noopener">Relaño et al. 2022</a>, <a href="https://scixplorer.org/abs/2024A%26A...692A..39V/abstract" target="_blank" rel="noopener">van der Giessen et al. 2024</a>), under a broad range of different star-formation and feedback conditions.  
       The inclusion of size distributions means we can predict wavelength-dependent extinction and emission directly from the simulations.
     </p>
   </div>
@@ -59,7 +59,7 @@ Dense spiral arms can be rich in both, while feedback-heated regions — particu
 </p>
 
 <p>
-The <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1461R/abstract" target="_blank" rel="noopener">coupling of dust physics and H₂ chemistry</a> allows us to explore how galactic structure and feedback regulate the cold ISM.  
+The <a href="https://scixplorer.org/abs/2022MNRAS.514.1461R/abstract" target="_blank" rel="noopener">coupling of dust physics and H₂ chemistry</a> allows us to explore how galactic structure and feedback regulate the cold ISM.  
 We find that feedback-driven turbulence and shocks are key in determining where dust can survive long enough to seed molecular cloud formation.
 </p>
 
@@ -73,7 +73,7 @@ We find that feedback-driven turbulence and shocks are key in determining where 
   <div style="flex: 1; min-width: 280px; padding-right: 20px;">
     <h3 style="margin-top: 0;">Turning Models into “Virtual Telescopes”</h3>
     <p>
-      Gadget4-Osaka outputs can be post-processed (<a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..79M/abstract" target="_blank" rel="noopener">Matsumoto et al. 2024</a>) to create synthetic maps in the far-infrared, submillimetre, and molecular line emission (e.g. CO).  
+      Gadget4-Osaka outputs can be post-processed (<a href="https://scixplorer.org/abs/2024A%26A...689A..79M/abstract" target="_blank" rel="noopener">Matsumoto et al. 2024</a>) to create synthetic maps in the far-infrared, submillimetre, and molecular line emission (e.g. CO).  
       By matching resolution and noise to real instruments, we can perform direct, quantitative comparisons with ALMA, Herschel, and JWST data.
     </p>
     <p>
@@ -86,8 +86,31 @@ We find that feedback-driven turbulence and shocks are key in determining where 
   </div>
 </div>
 
+## Constraining SIDM with Dark-Matter-Deficient Galaxies
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/images/projects/g4-osaka/SIDM_DMDGs.png" alt="Change of Dark Matter Fraction as a function of time" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+
+<h3>SIDM affects DMDG formation</h3>
+
+<p>
+<a href="https://scixplorer.org/abs/2026arXiv260909729K/abstract" target="_blank" rel="noopener">CROCODILE-SIDM</a> simulations of interacting DM halos with and without dark matter self-interactions reveal that the tidal formation pathway of DMDGs depends both on the interaction cross-section and on the initial DM halo profile of the infalling subhalo (which in turn depends on the DM interaction cross-section).
+</p>
+
+<p>
+Combining these two insights suggests that tidal DMDG formation is suppressed with an increase in the self-interaction cross-section. To confirm this interpretation of the current idealized simulation setup, more realistic, cosmological simulations are planned as part of the CROCODILE simulation framework. 
+</p>
+
+  </div>
+</div>
+
 ---
 
-(Last modified 08.08.2025)
+(Last modified 16.11.2026)
 
 [← Back to Research Overview](/research/)

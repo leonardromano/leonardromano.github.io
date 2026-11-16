@@ -23,6 +23,11 @@ Click on the thumbnails below to get an impression of the different projects I a
 <!-- Grid container -->
 <div class="project-grid">
 
+   <!-- Project 4 -->
+  <a href="/research/galgrid/" class="project-thumb">
+    <img src="/images/projects/galgrid.png" alt="Dusty CGM">
+  </a>
+
   <!-- Project 3 -->
   <a href="/research/dust-survival/" class="project-thumb">
     <img src="/images/projects/dust-survival.png" alt="Dusty CGM">
