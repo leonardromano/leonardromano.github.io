@@ -9,11 +9,20 @@ redirect_from:
 
 ![Defense picture](/images/defense.jpg)
 
-I am a theoretical astrophysicist at the ORIGINS cluster of Excellence in Munich.
+I am a theoretical astrophysicist at the ORIGINS cluster of Excellence in Munich. In my research, I combine numerical simulations with insights from analytical modelling to study various aspects of the galactic baryon cycle, from star-formation and stellar feedback to how matter is distributed and transported across the galaxies and their ecosystem.
 
 ## News
 
 ### 2026
+**02/10/2026** Invited Talk about blastwave modelling in the Galaxy Formation Group Seminar at the Center for Computational Astrophysics in New York, USA.   
+**30/09/2026** Invited Talk about starburst driven galactic outflows in the Fielding Group Meeting at New York University, USA.   
+**25/09/2026** Invited Talk about bar-driven secular evolution in the Lars Hernquist Group Meeting at the Harvard Center for Astrophysics, USA.   
+**24/09/2026** Invited Talk about the local bubble in the ITC Luncheon at the Harvard Center for Astrophysics, USA.   
+**23/09/2026** Invited Talk about starburst driven galactic outflows in the High Energy Seminar at the Harvard Center for Astrophysics, USA.   
+**16/09/2026** Invited Talk about bar-driven secular evolution in the Yale Galaxy Lunch at Yale University, USA.   
+**15/09/2026** Invited Talk about bar identification in hydrodynamic simulations in the Data x Astro Seminar at Yalue University, USA.   
+**11/09/2026** Invited Talk about bar-driven secular evolution in the UConn Astro Seminar at the University of Connecticut, USA.   
+**09/09/2026** [New preprint](https://scixplorer.org/abs/2026arXiv260909729K/abstract) on the role of SIDM in DMDG-formation (PI: K. Kihara) on the arXiv.   
 **07/07/2026** [New preprint](https://ui.adsabs.harvard.edu/abs/2026arXiv260704901R/abstract) on blastwave modelling with FRANZ on the arXiv.   
 **03/07/2026** [FRANZ.jl](https://doi.org/10.5281/zenodo.21076525) Julia package for modelling blastwave evolution goes live.   
 **01/07/2026** Talk about blastwave modelling at EAS 2026 in Lausanne, Switzerland.   
