@@ -74,7 +74,7 @@ This suggests the Local Bubble may be <strong>only ~5 million years old</strong>
   
 <h3> Blastwave Modelling Beyond Self-Similarity </h3>
 
-<p>I condensed the lessons learned from the SISSI simulations into a transparent analytical framework that can be used to model blastwave in virtually arbitrary media. The framework has been registered as a publicly available Julia package in the official registries ([FRANZ.jl](https://github.com/leonardromano/FRANZ.jl))</p>
+<p>I condensed the lessons learned from the SISSI simulations into a transparent analytical framework that can be used to model blastwave in virtually arbitrary media. The framework has been registered as a publicly available Julia package in the official registries (<a href="https://github.com/leonardromano/FRANZ.jl" target="_blank" rel="noopener">FRANZ.jl</a>)</p>
 
 <p>The framework can be used to take analytical limits of blastwave dynamics under fairly complex conditions, to build intuition without the need of computationally expensive simulations.</p>
 

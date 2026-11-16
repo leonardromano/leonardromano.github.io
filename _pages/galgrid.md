@@ -34,7 +34,7 @@ Below are some highlights and findings from our project.
   <div style="flex: 1; min-width: 280px; padding-right: 20px;">
     <h3 style="margin-top: 0;">GALGRID x Vintergatan</h3>
     <p>
-      To explore how the numerical choices underlying GALGRID affect the conclusions, we reran one of the GALGRID galaxies with the more sophisticated [Vintergatan](https://scixplorer.org/abs/2021MNRAS.503.5826A/abstract) physics model at 3 different resolutions.
+      To explore how the numerical choices underlying GALGRID affect the conclusions, we reran one of the GALGRID galaxies with the more sophisticated <a href="https://scixplorer.org/abs/2021MNRAS.503.5826A/abstract" target="_blank" rel="noopener">Vintergatan</a> physics model at 3 different resolutions.
     </p>
     <p>We measured various bar properties and compared them to those of the original GALGRID simulation. An overview of the differences is shown above. Most bar properties are not sensitive to the subgrid physics and are well converged at 12 pc. Only the bar pattern speed appears to differ.</p>
     
